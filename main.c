@@ -9,7 +9,7 @@ void main(void){
     x = 0xab; //1010_1011
 
     y = ReadBit(x,0);//1
-    z = ResetBit(x,0);//1010_1011
+    z = ResetBit(x,0);//1010_1010
 
     printf("O resultado do Read eh : %x \n",y);
     printf("O resultado do Reset eh : %x ",z);
