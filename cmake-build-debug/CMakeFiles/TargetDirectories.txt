@@ -1,0 +1,3 @@
+C:/Cdata/Reset_and_Read_Bit/cmake-build-debug/CMakeFiles/Reset_and_Read_Bit.dir
+C:/Cdata/Reset_and_Read_Bit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Cdata/Reset_and_Read_Bit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
